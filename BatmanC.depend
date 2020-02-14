@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542750317 source:/home/salma/Desktop/OS/BatmanC/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
